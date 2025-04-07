@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-![screenshot](./public/login.jpg)
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/babdf6f5-6880-4506-8781-531c79e5bb8d" />
 
 ## Getting Started
 
